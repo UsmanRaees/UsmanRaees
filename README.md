@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Best Developer from Pakistan </h3>
+<h3 align="center">AI, Blockchain and Web 3 Developer from Pakistan </h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-- 🌱 I’m currently learning in a **one year program of certified cloud applied genrative AI engineer**
+- 🌱 I am excited to share that I am currently enrolled in a rigorous one-year program to become a certified cloud applied genrative AI engineer. I am confident that this program will equip me with the necessary skills and knowledge to excel in this field.
 
 - 📫 How to reach me **raisusman11@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
